@@ -27,7 +27,7 @@
     "@nestjs/swagger": "^4.3.2",
     "@nestjsx/crud": "^4.4.1",
     "@typegoose/typegoose": "^6.4.0",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "mongoose": "^5.9.3",
     "nest-crud-mongoose": "0.0.5",
     "nestjs-typegoose": "^7.1.0",
